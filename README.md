@@ -1,4 +1,4 @@
-# ¡Wellcome! 
+# ¡Welcome! 
 I am Natalia Rodríguez Navarro, and I'm studying Computer Engineering at Carlos III University of Madrid.
 
 ### Activity
