@@ -1,5 +1,5 @@
-# ¡Bienvenidos! 
-Soy Natalia Rodríguez Navarro y estoy estudiando Igeniería Informática en la Universidad Carlos III de Madrid.
+# ¡Wellcome! 
+I am Natalia Rodríguez Navarro, and I'm studying Computer Engineering at Carlos III University of Madrid.
 
 ### Actividad
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=NataaNK&show_icons=true&theme=cobalt)
