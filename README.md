@@ -1,5 +1,5 @@
 # 💥¡Welcome!💥
-I am Natalia Rodríguez Navarro, and I'm studying Computer Engineering at Carlos III University of Madrid.
+I am **Natalia Rodríguez Navarro**, currently pursuing a degree in Computer Engineering at Carlos III University of Madrid. My academic focus includes advanced topics such as machine learning, artificial intelligence, and software development. I am particularly interested in how technology can be used to solve complex problems and enhance user interaction. I actively participate in a wide range of projects, utilizing a variety of programming languages, which allows me to apply theoretical knowledge in diverse practical settings and significantly expand my skill set.
 
 ### Capabilities 💪
 - Machine Learning
