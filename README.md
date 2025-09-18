@@ -15,7 +15,7 @@ I am **Natalia Rodríguez Navarro**, currently pursuing a degree in Computer Eng
 - Computer Networks
 - Statistics
 
-### Skills 🚀
+### Skills 🚀 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,linux,clion,py,pycharm,js,html,css,nodejs,r,sklearn,vscode&perline=7)](https://skillicons.dev)
 
 ### Activity 👩‍💻
