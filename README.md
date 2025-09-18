@@ -19,7 +19,7 @@ I am **Natalia Rodríguez Navarro**, currently pursuing a degree in Computer Eng
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,linux,clion,py,pycharm,js,html,css,nodejs,r,sklearn,vscode&perline=7)](https://skillicons.dev)
 
 ### Activity 👩‍💻
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=NataaNK&show_icons=true&theme=cobalt)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=NataaNK&theme=cobalt)
 
 ### Most used languages 📚
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NataaNK&show_icons=true&locale=en&layout=compact" alt="NataaNK" /></p>
